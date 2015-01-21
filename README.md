@@ -9,13 +9,13 @@
                           \ \)\_________\ 
                   
 ```
+[DATASTORM 2014 Invitation](http://www.pouet.net/prod.php?which=62012)
+---------------------------
 
 An invite for [DATASTORM 2014](http://datastorm.se/).
  * Code by Mooz
  * Graphics by Spot
  * Music by Octapus
-
-See you at [DATASTORM 2014](http://datastorm.se/).
 
 Run the following command in order to compile the invtro.
 ```
@@ -25,7 +25,7 @@ Note that you'll need pceas v3.23. You can find it at the following
 [address](https://github.com/nop00/pceas).
 
 All the data were already processed. The programs and scripts used to
-produced them are located in the pce/tools directory.
+produce them are located in the pce/tools directory.
 
 The code of this demo is licensed under the BSD Simplified license.
 
