@@ -150,8 +150,9 @@ rasterBar_init:
     
 	; set vdc control register
 	vreg  #5
-	; enable bg, enable sprite, vertical blanking and scanline interrupt
-	lda   #%11001100
+	; enable bg, vertical blanking and scanline interrupt
+	; disable sprite
+	lda   #%10001100
 	sta    <vdc_crl
 	sta   video_data_l
 	st2   #$00
